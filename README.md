@@ -133,24 +133,16 @@ The Blynk IoT dashboard displays:
 - AI-Based Disease Prediction
 - SMS & Email Notifications
 
----
-
-
-Add images of:
-
-
-```markdown
-![Prototype](Images/prototype.jpg)
-
-![Circuit Diagram](Images/circuit.png)
-
-![Blynk Dashboard](Images/blynk_dashboard.png)
-```
-
----
 
 
 ##  Results
+
+![HARDWARE](hardware.jpg)
+
+![DASHBOARD](dashboard.jpg)
+
+![LOCATION ALERT](location.jpg)
+
 
 - Successfully monitored vital signs in real time.
 - AI model accurately classified health conditions.
